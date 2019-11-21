@@ -6,6 +6,7 @@ body {
     /* Visual */
     background-image: url("../imgs/ignasi_pattern_s.png");
   }
+
   
   html {
     /* Positioning */
@@ -150,6 +151,8 @@ body {
   .port-image {
     margin: 20px auto;
   }
+
+
   /* END PORTFOLIO PAGE */
   
   
